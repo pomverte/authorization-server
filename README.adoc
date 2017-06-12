@@ -4,4 +4,4 @@ with JWT
 
 == References
 
-* https://github.com/szerhusenBC
+* https://github.com/szerhusenBC/jwt-spring-security-demo
